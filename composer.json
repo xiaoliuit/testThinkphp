@@ -1,16 +1,13 @@
 {
     "name": "xiaoliuit/testthinkphp",
-    "description": "a test",
+    "description": "thinkphp",
     "type": "project",
-    "require": {
-        "houdunwang/hdphp": "*"
-    },
-    "license": "MIT",
+    "license": "mit",
     "authors": [
         {
             "name": "jinqing",
             "email": "1272975143@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "require": {}
 }
